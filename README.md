@@ -1,16 +1,14 @@
-# mealsapp
+# Meals App
 
 A new Flutter project.
+A simple meal app build within the learning process through the FLutter & Dart course.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## What I learned
 
-A few resources to get you started if this is your first Flutter project:
+With this app I was able to delevop and understand:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Building Multi-Screen and do Navigation between screens (using the Navigator);
+- Managing App-Wide State (using riverpod package;
+- Adding Animations;
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
